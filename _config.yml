@@ -21,7 +21,7 @@
 title: Pear Programming
 description: >- # this means to ignore newlines until "baseurl:"
   Pair program with a wise fruit providing general prompts and advice
-baseurl: "/docs" # the subpath of your site, e.g. /blog
+# baseurl: "/docs" # the subpath of your site, e.g. /blog
 url: "https://sadielbartholomew.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
@@ -51,5 +51,5 @@ plugins:
 #   - vendor/ruby/
 
 # Use the 'Minimalist' custom theme (see github.com/BDHU/minimalist)
-remote_theme: BDHU/minimalist
-color-scheme: light
+#remote_theme: BDHU/minimalist
+#color-scheme: light
