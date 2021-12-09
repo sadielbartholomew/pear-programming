@@ -44,3 +44,20 @@ header h1 {
 a.button {
     color: #608000;
 }
+
+aside#sidebar {
+    width: 150px;
+}
+
+/* Style the bullet point lists as pears via the pear emoji */
+ul {
+    position: relative;
+    list-style: none;
+    margin-left: 0;
+    padding-left: 1.2em;
+}
+ul li:before {
+    content: "\01F350";
+    position: absolute;
+    left: 0;
+}
