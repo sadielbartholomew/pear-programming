@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+
+/*
+  Edits to tweak the CSS for the 'architect' Jekyll theme, to customise it
+  so it works better for the 'Pear Programming' site.
+
+  To see the original theme CSS, see:
+  github.com/pages-themes/architect/blob/master/_sass/jekyll-theme-architect.scss
+ 
+*/
+
+/* So title 'Pear Programming' fits on one line for standard screen size. */
+header h1 {
+    font-size: 62px;  /* reduced from 72px */
+}
