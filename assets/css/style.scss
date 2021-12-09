@@ -13,7 +13,34 @@
  
 */
 
+/* Change some colours, notably header background, to be more pear-themed */
+header {
+    background: linear-gradient(138deg, #b6bd12 35%, #ddd01e 63%);
+    border-bottom: 0px;
+}
+
+header h2 {
+    color:  #474747;
+}
+
+#main-content h1:before {
+    color: #b6bd12;
+}
+
+a {
+    color: #608000;
+}
+
+a:hover {
+    color: #86b300;
+}
+
 /* So title 'Pear Programming' fits on one line for standard screen size. */
 header h1 {
     font-size: 62px;  /* reduced from 72px */
+}
+
+/* So 'View project on GitHub' text is more legible on new background. */
+a.button {
+    color: #608000;
 }
