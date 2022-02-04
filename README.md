@@ -1,3 +1,3 @@
 # Pear Programming
 
-Pair program with a wise fruit providing general prompts and advice :pear:
+Generic coding prompts & guidance from a wise anthropomorphic fruit :pear:
