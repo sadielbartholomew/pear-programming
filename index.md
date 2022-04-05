@@ -11,10 +11,11 @@ corresponding section):
 * [Refactoring](#refactoring)
 * [Communicating about software](#communicating-about-software)
 * [Programming productivity](#programming-productivity)
-* [Designing and planning solutions](#programming-productivity)
+* [Designing and planning solutions](#designing-and-planning-solutions)
 * [Meeting deadlines](#meeting-deadlines)
 * [Satisfying (user) requirements](#satisfying-user-requirements)
 * [Knowledge sharing](#knowledge-sharing)
+* [Programming ethically](#programming-ethically)
 
 
 ---
@@ -75,6 +76,11 @@ TODO
 
 
 # Knowledge sharing
+
+TODO
+
+
+# Programming ethically
 
 TODO
 
